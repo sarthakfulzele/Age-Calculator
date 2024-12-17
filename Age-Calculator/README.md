@@ -1,0 +1,1 @@
+Javascript-Age-Calculator is a type of calculator which calculates your current age right from your date of birth. I have used html to draw the structure, css to design the page as well as javascript to build the logic of the calculator. This calculator will give you the exact age as per today.
